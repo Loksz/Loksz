@@ -1,4 +1,4 @@
-# Juan Sebastián Hernández
+# Juan Sebastián Hernández Rincón
 
 Backend Developer | Event-Driven Architectures | Real-Time Systems
 
