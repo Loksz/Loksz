@@ -22,14 +22,6 @@ Plataforma de colaboración event-driven para equipos distribuidos
 
 ---
 
-### [AlertVision](https://github.com/Loksz/alertvision)
-Sistema de gestión de seguridad laboral con automatización de EPP
-
-**Stack:** Flask · MySQL · JWT · Bootstrap  
-**Implementaciones:** RBAC, notificaciones automáticas, matriz de riesgos dinámica
-
----
-
 ### [YourTrip](https://github.com/Loksz/yourtrip)
 Plataforma de conexión turistas-empresas con recomendaciones personalizadas
 
