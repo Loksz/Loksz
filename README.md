@@ -44,13 +44,5 @@ Plataforma de conexión turistas-empresas con recomendaciones personalizadas
 
 ---
 
-## 📫 Contacto
-
-**Email:** juanhernandezr0075@gmail.com  
-**GitHub:** Explora mis proyectos más abajo ↓  
-**Ubicación:** La Serena, Chile
-
----
-
 Abierto a oportunidades como **Backend/Full Stack Developer**  
 Especial interés en sistemas distribuidos y arquitecturas modernas
