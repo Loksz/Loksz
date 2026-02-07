@@ -4,15 +4,13 @@ Backend Developer | Event-Driven Architecture
 
 ---
 
-## 👨‍💻 En qué trabajo
-
 Construyo sistemas backend con enfoque en arquitecturas modernas y problemas de coordinación de estado.
 
 Actualmente explorando **event-driven patterns** y **real-time collaboration** a través de proyectos propios.
 
 ---
 
-## 🚀 Proyectos
+##  Proyectos
 
 ### [AETHER](https://github.com/Loksz/aether-collaboration-platform)
 Plataforma de colaboración event-driven para equipos distribuidos
@@ -30,7 +28,7 @@ Plataforma de conexión turistas-empresas con recomendaciones personalizadas
 
 ---
 
-## 🛠️ Stack Técnico
+## Stack Técnico
 
 **Lenguajes:** JavaScript, TypeScript, Python, Java
 
@@ -44,5 +42,3 @@ Plataforma de conexión turistas-empresas con recomendaciones personalizadas
 
 ---
 
-Abierto a oportunidades como **Backend/Full Stack Developer**  
-Especial interés en sistemas distribuidos y arquitecturas modernas
