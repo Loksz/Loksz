@@ -28,6 +28,12 @@ Plataforma de conexión turistas-empresas con recomendaciones personalizadas
 
 ---
 
+### [Orvanta](https://github.com/Loksz/orvanta-plataforma-ciberseguridad)
+Plataforma de cursos de ciberseguridad
+
+**Stack** Node.js · Express · React · MySQL
+**Arquitectura:** REST API con autenticación de sesiones | Gestión y presentación de cursos
+
 ## Stack Técnico
 
 **Lenguajes:** JavaScript, TypeScript, Python, Java
