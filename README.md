@@ -40,13 +40,13 @@ Plataforma de cursos de ciberseguridad
 
 **Lenguajes:** JavaScript · TypeScript · Python · Java · C#
 
-**Frontend:** React · Next.js · Vue.js · Tailwind CSS · jQuery · Razor
+**Frontend:** React · Next.js · Vue.js · Tailwind CSS
 
 **Backend:** Node.js · Express · NestJS · Flask · FastAPI · Django · Spring Boot · .NET Framework
 
 **Bases de datos:** PostgreSQL · MySQL · SQL Server · MongoDB · Redis
 
-**DevOps & Tools:** Git · Docker · Linux · AWS · Visual Studio
+**DevOps & Tools:** Git · Docker · Linux · AWS 
 
 **Arquitectura & Patrones:** API REST · Event-Driven Architecture · MVC · MVT · SOLID · DRY · JWT · WebSockets
 
