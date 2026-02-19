@@ -48,6 +48,6 @@ Plataforma de cursos de ciberseguridad
 
 **DevOps & Tools:** Git · Docker · Linux · AWS 
 
-**Arquitectura & Patrones:** API REST · Event-Driven Architecture · MVC · MVT · SOLID · DRY · JWT · WebSockets
+**Arquitectura & Patrones:** API REST · Event-Driven Architecture · MVC · MVT · SOLID · DRY
 
 ---
